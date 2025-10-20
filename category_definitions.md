@@ -1,3 +1,10 @@
+| Quick Links |
+|---|
+| [Home Page](https://lightwork-speedrunning.github.io/light-work-speedrunning/) |
+| [Run Rules](https://lightwork-speedrunning.github.io/light-work-speedrunning/run_rules.html) |
+| [Category Definitions](https://lightwork-speedrunning.github.io/light-work-speedrunning/category_definitions.html) |
+| [Roblox Guide](https://lightwork-speedrunning.github.io/light-work-speedrunning/roblox_guide.html) |
+
 # Definitions
 
 #### Categories
@@ -22,10 +29,10 @@
 # Timing
 
 #### Standard
-- Timing starts from the first keystroke and ends once the golden brazier has been lit and movement stopped. With the exceptions of the following.
+- Timing starts from the first keystroke and ends once the golden brazier has been lit and movement stopped.
 
 #### Respawn
 - Timed as standard, but ends from the first frame the fade-out death animation begins.
 
 #### Individual Levels
-- Timed as standard, but ends from the first frame the fade-in level transition ends, and the screen is fully black. Recording rules apply.
+- Timed as standard, but ends from the first frame the fade-in level transition ends, and the screen is fully black. [Recording rules apply](https://lightwork-speedrunning.github.io/light-work-speedrunning/run_rules.html#video-submission) @ <ins>Setup</ins>.
