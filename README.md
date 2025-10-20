@@ -6,8 +6,8 @@ Credits to the Hollow Knight repository for inspiration
 ---
 
 ### Directory
-> [Run Rules](https://lightwork-speedrunning.github.io/test/run_rules.html)
+> [Run Rules](https://lightwork-speedrunning.github.io/light-work-speedrunning/run_rules.html)
 > 
-> [Category Definitions](https://lightwork-speedrunning.github.io/test/category_definitions.html)
+> [Category Definitions](https://lightwork-speedrunning.github.io/light-work-speedrunning/category_definitions.html)
 > 
-> [Roblox Guide](https://lightwork-speedrunning.github.io/test/roblox_guide.html)
+> [Roblox Guide](https://lightwork-speedrunning.github.io/light-work-speedrunning/roblox_guide.html)
